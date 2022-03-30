@@ -25,8 +25,8 @@
   
 <div>
   <a href="https://github.com/Nandincci">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nandincci&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandincci&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" alt="Nandincci Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandincci&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" alt="Nandincci Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandincci&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
